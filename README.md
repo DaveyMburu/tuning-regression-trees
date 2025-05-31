@@ -11,6 +11,8 @@ In this lab you will:
 - Perform the full process of cleaning data, tuning hyperparameters, creating visualizations, and evaluating decision tree models 
 - Determine the optimal hyperparameters for a decision tree model and evaluate the performance of decision tree models
 
+# Check the index.ipynb file for my workings
+
 ## Ames Housing dataset 
 
 The dataset is available in the file `'ames.csv'`. 
